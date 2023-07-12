@@ -1,5 +1,7 @@
 {
-     {
+   "files": [  
+
+{
          "name": "FREE01",
          "url": "EovXRpj3iG1E91yw28vot8+1c/T14lNldMUAe5iVK0+O7+ffJ1duFjqpWp4ZCupBTAsI4rYE7+gRdOy3McEWee28PRMZDNJmEHCA9aDlnYs="
       },
@@ -58,12 +60,12 @@
 
 
    ],
-"message":"🚀 Config version - 2
+"message":"🚀 Config version - 3
  \n📆 Latest update - 12/7/2023
 🌟VIP တစ်လမှ 50 ဘတ်
 📱True Dtac နှစ်မျိုးချိတ်
 🚀Game online လဲရပါမည်
 အားပေးမှူအတွက်ကျေးဇူပါ",
    "title":"Do you want to update?",
-   "version": 2
+   "version": 3
 }
