@@ -106,6 +106,14 @@
          "url": "m5gvBspgIhXnJYZVVP7CEB8ICrYL3H0isDT6mjAkRBYaLyrAmzFHyKDv7XA/2nXYEq4ndIUmqFfl4Mr6B4+tlZ5LKca05ab5YRCuSg=="
       },
       {
+         "name": "TH-DTAC-GAME24-ML",
+         "url": "J8x9HNGjVkQt4+IcUjvHe/KI3U3nOF/FiZogcNAOhVQKpIy5S2Tu23nyCEybGuHUZgVxDvTNx2guMJytB5kOu5oU0j0T7MJg55KpjA=="
+      },
+      {
+         "name": "TH-DTAC-GAME25-ML",
+         "url": "NZ8cm60+Yin0jta/70OTdBcRvfFxYidx/2aRzY+VXXvkpRYnab4RoIqdzq1SYE04awjpFeec+A8ARUNS0M3x41yhqcw0dKmlX5Mvew=="
+      },
+      {
          "name": "TH-TRUE-GAME01",
          "url": "36wBuUWhIlkRcuiWlFIDspwoTomV8BDDIaWXSZY9DItJPv8/VSiRfdKYGOOBhw7E/qXh7RtFSzr6QAc2KbuIeZ4nzTZhYPPKBcliqQ=="
       },
@@ -196,16 +204,24 @@
       {
          "name": "TH-TRUE-GAME23",
          "url": "m5gvBspgIhXnJYZVVP7CEB8ICrYL3H0isDT6mjAkRBYaLyrAmzFHyKDv7XA/2nXYEq4ndIUmqFfl4Mr6B4+tlZ5LKca05ab5YRCuSg=="
+      },
+      {
+         "name": "TH-TRUE-GAME24-ML",
+         "url": "J8x9HNGjVkQt4+IcUjvHe/KI3U3nOF/FiZogcNAOhVQKpIy5S2Tu23nyCEybGuHUZgVxDvTNx2guMJytB5kOu5oU0j0T7MJg55KpjA=="
+      },
+      {
+         "name": "TH-TRUE-GAME25-ML",
+         "url": "NZ8cm60+Yin0jta/70OTdBcRvfFxYidx/2aRzY+VXXvkpRYnab4RoIqdzq1SYE04awjpFeec+A8ARUNS0M3x41yhqcw0dKmlX5Mvew=="
       }
 
 
    ],
-"message":"🚀 Config version - 4
- \n📆 Latest update - 12/7/2023
+"message":"🚀 Config version - 5
+ \n📆 Latest update - 22/7/2023
 🌟VIP တစ်လမှ 50 ဘတ်
 📱True Dtac နှစ်မျိုးချိတ်
 🚀Game online လဲရပါမည်
 အားပေးမှူအတွက်ကျေးဇူပါ",
    "title":"Do you want to update?",
-   "version": 4
+   "version": 5
 }
