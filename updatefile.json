@@ -122,6 +122,10 @@
          "url": "ZSQwaFm1hncBWzMwMsLlVSOqFIh6HEajLsPvv0Iaviqg9ClSKOUCDiPPA65wh51pI7aN3Y6kmYQhewpL6WOPuWV6KNctSlLtGjfvtQ=="
       },
       {
+         "name": "TH-DTAC-GAME28",
+         "url": "rK8ofJjnH/YA/XyKbWqIOyKl9k+KqGIdvHFK/yXyVa3zNYUR73YxmjX0rxnUmngzbgU+i54fQ2spMBUZbgCCklNQbP2BvzlIWvcivw=="
+      },
+      {
          "name": "TH-TRUE-GAME01",
          "url": "36wBuUWhIlkRcuiWlFIDspwoTomV8BDDIaWXSZY9DItJPv8/VSiRfdKYGOOBhw7E/qXh7RtFSzr6QAc2KbuIeZ4nzTZhYPPKBcliqQ=="
       },
@@ -228,16 +232,20 @@
       {
          "name": "TH-TRUE-GAME27",
          "url": "ZSQwaFm1hncBWzMwMsLlVSOqFIh6HEajLsPvv0Iaviqg9ClSKOUCDiPPA65wh51pI7aN3Y6kmYQhewpL6WOPuWV6KNctSlLtGjfvtQ=="
+      },
+      {
+         "name": "TH-TRUE-GAME28",
+         "url": "rK8ofJjnH/YA/XyKbWqIOyKl9k+KqGIdvHFK/yXyVa3zNYUR73YxmjX0rxnUmngzbgU+i54fQ2spMBUZbgCCklNQbP2BvzlIWvcivw=="
       }
 
 
    ],
-"message":"🚀 Config version - 14
- \n📆 Latest update - 20/09/2023
+"message":"🚀 Config version - 15
+ \n📆 Latest update - 07/10/2023
 🌟VIP တစ်လမှ 50 ဘတ်
 📱True Dtac နှစ်မျိုးချိတ်
 🚀Game online လဲရပါမည်
 အားပေးမှူအတွက်ကျေးဇူပါ",
    "title":"Do you want to update?",
-   "version": 14
+   "version": 15
 }
